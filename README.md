@@ -14,14 +14,6 @@ Back-end focado em sistemas de alta performance, arquitetura cloud na AWS e proc
 
 ---
 
-### 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuilhermeBartmann&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBartmann&layout=compact&theme=transparent)
-
----
-
 ### 📫 Contato
 * **LinkedIn:** [in/devguilhermebartmann](https://www.linkedin.com/in/devguilhermebartmann)
 * **E-mail:** [guilherme-dev@outlook.com](mailto:guilherme-dev@outlook.com)
