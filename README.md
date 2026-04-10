@@ -16,10 +16,9 @@ Back-end focado em sistemas de alta performance, arquitetura cloud na AWS e proc
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBartmann&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBartmann&layout=compact&theme=dark" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuilhermeBartmann&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBartmann&layout=compact&theme=transparent)
 
 ---
 
