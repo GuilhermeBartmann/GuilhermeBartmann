@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Guilherme Bartmann, Full-stack Developer" />
+<img src="./banner-v2.svg" width="100%" alt="Guilherme Bartmann, Full-stack Developer" />
 
 <br/><br/>
 
