@@ -2,39 +2,61 @@
 
 <img src="./banner.svg" width="100%" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=61DAFB&center=true&vCenter=true&width=600&lines=Construindo+produtos+com+React%2C+NestJS+e+Laravel;APIs%2C+crawlers+e+automa%C3%A7%C3%B5es+que+escalam;IA+aplicada+a+problemas+reais" alt="Typing SVG" />
+<h1>Guilherme Bartmann</h1>
+
+<p><b>Full-stack Developer</b> · React · NestJS · Laravel · TypeScript</p>
+
+<a href="https://www.linkedin.com/in/devguilhermebartmann"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" /></a>
+<a href="mailto:guilherme-dev@outlook.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=flat-square&logo=gmail&logoColor=61DAFB" alt="E-mail" /></a>
+<a href="https://wa.me/5532991373583"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=flat-square&logo=whatsapp&logoColor=61DAFB" alt="WhatsApp" /></a>
+<img src="https://img.shields.io/badge/Juiz_de_Fora,_MG-0D1117?style=flat-square&logo=googlemaps&logoColor=61DAFB" alt="Juiz de Fora, MG" />
 
 </div>
 
-### 👋 Sobre
+<br/>
 
-Desenvolvedor full-stack de Juiz de Fora, MG. Trabalho principalmente com React, NestJS e Laravel, construindo aplicações web escaláveis, APIs de alta performance, crawlers e automações, e colocando IA para resolver problemas reais.
+### Sobre
 
-### 🛠 Tech Stack
+Desenvolvedor full-stack com mais de 5 anos de experiência construindo aplicações web escaláveis, APIs REST de alta performance e automação de processos. Trabalho principalmente com React, NestJS e Laravel, com foco em arquitetura limpa, integrações e IA aplicada a problemas reais.
+
+<br/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Web & APIs</b><br/>
+      <sub>Aplicações React, APIs REST modulares com NestJS e Laravel, autenticação JWT/OAuth 2.0 e integrações com gateways de pagamento.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Dados & Automação</b><br/>
+      <sub>Crawlers, web scraping, filas assíncronas com SQS/SNS e processamento de dados em larga escala.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>IA aplicada</b><br/>
+      <sub>Agentes, RAG, function calling e MCPs integrados a sistemas novos e legados.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nestjs,php,laravel" height="44" alt="React, TypeScript, JavaScript, Node.js, NestJS, PHP, Laravel" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nestjs,php,laravel&theme=dark" height="44" alt="React, TypeScript, JavaScript, Node.js, NestJS, PHP, Laravel" />
 
-<img src="https://skillicons.dev/icons?i=mysql,redis,firebase,aws,cloudflare,docker,githubactions,gitlab" height="44" alt="MySQL, Redis, Firestore, AWS, Cloudflare, Docker, GitHub Actions, GitLab" />
+<img src="https://skillicons.dev/icons?i=mysql,redis,firebase,aws,cloudflare,docker,githubactions,gitlab&theme=dark" height="44" alt="MySQL, Redis, Firestore, AWS, Cloudflare, Docker, GitHub Actions, GitLab" />
 
 </div>
 
-### 📊 GitHub
+<br/>
+
+### Atividade
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBartmann&show_icons=true&include_all_commits=true&custom_title=Estat%C3%ADsticas+do+GitHub&locale=pt-br&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBartmann&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&hide_border=true" alt="Linguagens mais usadas" />
-
-</div>
-
-### 📫 Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/devguilhermebartmann"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:guilherme-dev@outlook.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logoColor=white" alt="E-mail" /></a>
-<a href="https://wa.me/5532991373583"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBartmann&show_icons=true&include_all_commits=true&hide_rank=true&custom_title=Estat%C3%ADsticas&locale=pt-br&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&hide_border=true" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBartmann&layout=compact&langs_count=6&locale=pt-br&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&hide_border=true" alt="Linguagens mais usadas" />
 
 </div>
