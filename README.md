@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="" />
+<img src="./banner.svg" width="100%" alt="Guilherme Bartmann, Full-stack Developer" />
 
-<h1>Guilherme Bartmann</h1>
-
-<p><b>Full-stack Developer</b> · React · NestJS · Laravel · TypeScript</p>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/devguilhermebartmann"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" /></a>
 <a href="mailto:guilherme-dev@outlook.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=flat-square&logo=gmail&logoColor=61DAFB" alt="E-mail" /></a>
