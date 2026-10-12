@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./banner-v2.svg" width="100%" alt="Guilherme Bartmann, Full-stack Developer" />
+<img src="./banner.svg" width="100%" alt="Guilherme Bartmann, Full-stack Developer" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/devguilhermebartmann"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" /></a>
-<a href="mailto:guilherme-dev@outlook.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=flat-square&logo=gmail&logoColor=61DAFB" alt="E-mail" /></a>
-<a href="https://wa.me/5532991373583"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=flat-square&logo=whatsapp&logoColor=61DAFB" alt="WhatsApp" /></a>
-<img src="https://img.shields.io/badge/Juiz_de_Fora,_MG-0D1117?style=flat-square&logo=googlemaps&logoColor=61DAFB" alt="Juiz de Fora, MG" />
+<a href="https://www.linkedin.com/in/devguilhermebartmann"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=FF7A1A" alt="LinkedIn" /></a>
+<a href="mailto:guilherme-dev@outlook.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=flat-square&logo=gmail&logoColor=FF7A1A" alt="E-mail" /></a>
+<a href="https://wa.me/5532991373583"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=flat-square&logo=whatsapp&logoColor=FF7A1A" alt="WhatsApp" /></a>
+<img src="https://img.shields.io/badge/Juiz_de_Fora,_MG-0D1117?style=flat-square&logo=googlemaps&logoColor=FF7A1A" alt="Juiz de Fora, MG" />
 
 </div>
 
@@ -54,7 +54,7 @@ Desenvolvedor full-stack com mais de 5 anos de experiência construindo aplicaç
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBartmann&show_icons=true&include_all_commits=true&hide_rank=true&custom_title=Estat%C3%ADsticas&locale=pt-br&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9&hide_border=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBartmann&layout=compact&langs_count=6&locale=pt-br&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&hide_border=true" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBartmann&show_icons=true&include_all_commits=true&hide_rank=true&card_width=495&custom_title=Estat%C3%ADsticas&locale=pt-br&bg_color=0D1117&title_color=FF7A1A&icon_color=FF7A1A&text_color=C9D1D9&hide_border=true" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBartmann&layout=compact&langs_count=6&locale=pt-br&bg_color=0D1117&title_color=FF7A1A&text_color=C9D1D9&hide_border=true" alt="Linguagens mais usadas" />
 
 </div>
